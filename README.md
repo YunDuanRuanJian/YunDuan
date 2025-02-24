@@ -1,10 +1,10 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ionuț</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm YunDuanRuanJian</h1>
 <h3 align="center">A passionate Developer and pre-Software Engiener from Romania</h3>
 
 - 🌱 I’m currently learning **Programming and Code**
 
-- 📫 How to reach me **ionutbaraooo@gmail.com**
+- 📫 How to reach me **YunDuanRuanJian@gmail.com**
 
 - ⚡ Fun fact **I am creating stuff which you don't expect =))**
 
