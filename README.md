@@ -38,10 +38,7 @@
 
 
 
-<!-- https://github.com/kyechan99/capsule-render -->
-<p align="center">
 
-</p>
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
