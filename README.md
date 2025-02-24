@@ -59,9 +59,6 @@
 </p>
 
 <!-- https://github.com/kyechan99/capsule-render -->
-
-
-
 <br/>
 <br/>
 <br/>
