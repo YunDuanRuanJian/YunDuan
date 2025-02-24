@@ -26,7 +26,7 @@
     <a href="https://github.com/ionuttbara/github-readme-stats"><img alt="joni's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ionuttbara&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/ionuttbara/github-readme-stats"><img alt="joni's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ionuttbara&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+ 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
 </p>
