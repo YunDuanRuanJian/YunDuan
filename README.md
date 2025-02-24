@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Programming and Code**
 
-- 📫 How to reach me **YunDuanRuanJian@gmail.com**
+- 📫 How to reach me **YunDuanRuanJian@Gmail.com**
 
 - ⚡ Fun fact **I am creating stuff which you don't expect =))**
 
@@ -40,7 +40,7 @@
 
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=Hello%20I'm%20云端软件&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+
 </p>
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
