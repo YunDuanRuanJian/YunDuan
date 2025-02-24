@@ -63,8 +63,6 @@
 <br/>
 <br/>
 <br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ionuttbara&label=Profile%20views&color=129e00&style=plastic" alt="joni" /> </p>
-
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ionuttbara&label=Profile%20views&color=129e00&style=plastic" alt="joni" /> </p>
